@@ -1,7 +1,7 @@
 {
   "name": "behind-the-overlay-me",
   "version": "1.0.2",
-  "title": "Behind The Overlay (Moon Edition)",
+  "title": "Dismiss The Overlay",
   "description": "Click to close any overlay on any website",
   "id": "behind-the-overlay-me@Off.JustOff",
   "main": "lib/main.js",
@@ -16,6 +16,6 @@
   "contributors": [
     "Nicolae Namolovan"
   ],
-  "homepage": "https://github.com/JustOff/behind-the-overlay-me",
+  "homepage": "https://github.com/JustOff/dismiss-the-overlay",
   "license": "MIT"
 }

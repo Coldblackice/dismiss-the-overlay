@@ -1,4 +1,4 @@
-# Behind The Overlay Extension for Pale Moon
+# Dismiss The Overlay
 
 ## What's it all about?
 
