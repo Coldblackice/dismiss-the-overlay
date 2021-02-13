@@ -1,13 +1,13 @@
 {
-  "name": "dismiss-the-overlay-1.0.3",
-  "version": "1.0.3",
+  "name": "dismiss-the-overlay-1.0.4",
+  "version": "1.0.4",
   "title": "Dismiss The Overlay",
   "description": "Click to close any overlay on any website",
   "id": "behind-the-overlay-me@Off.JustOff",
   "main": "lib/main.js",
   "engines": {
-    "firefox": ">=38.0a1",
-    "{8de7fcbb-c55c-4fbe-bfc5-fc555c87dbc4}": ">=27.1.0b1 <=27.*"
+    "firefox": ">=38.0a1 <=56.*",
+    "{8de7fcbb-c55c-4fbe-bfc5-fc555c87dbc4}": ">=27.1.0b1 <=29.*"
   },
   "permissions": {
     "private-browsing": true
